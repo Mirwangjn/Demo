@@ -39,5 +39,6 @@ public class Demo1 {
         System.out.println(Demo.setB("wangjn"));
         System.out.println("出自我手啊就将计就计");
         System.out.println("third commit");
+        System.out.println("master 分支");
     }
 }
