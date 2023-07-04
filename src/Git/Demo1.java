@@ -40,5 +40,6 @@ public class Demo1 {
         System.out.println("出自我手啊就将计就计");
         System.out.println("third commit");
         System.out.println("master 分支");
+        System.out.println("hot-fix test");
     }
 }
