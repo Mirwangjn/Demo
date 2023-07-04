@@ -29,7 +29,14 @@ public class Demo1 {
 
     public static void main(String[] args) {
 //        System.out.println("11");
+
+        /*
+          红色代表没有被追踪过
+          绿色代表存储在暂存区当中
+          蓝色代表以提交之后，修改过
+        * */
         Demo1 Demo = new Demo1(1,"22");
         System.out.println(Demo.setB("wangjn"));
+        System.out.println("出自我手啊就将计就计");
     }
 }
