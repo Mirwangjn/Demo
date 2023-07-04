@@ -38,5 +38,6 @@ public class Demo1 {
         Demo1 Demo = new Demo1(1,"22");
         System.out.println(Demo.setB("wangjn"));
         System.out.println("出自我手啊就将计就计");
+        System.out.println("third commit");
     }
 }
